@@ -9,7 +9,7 @@ I’m sharing my current progress on the Ender 5 Plus Enclosure Prototype + Merc
 
 
 
-**Goal**
+**Goal**  
 The focus is on preserving the majority of the original printer to keep costs and complexity as low as possible.
 Current Development Progress
 Included Files:
