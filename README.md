@@ -58,6 +58,13 @@ Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC 
 
   Attribution: This project includes or is inspired by the Tension Blocks Front CRO design by the original author Seffyr on Printables.
   Non-commercial use only
+
+- Ender 5 Plus Electric Bay
+  https://www.printables.com/model/557066-ender-5-plus-skirting-and-lower-enclosure-base-cas
+  Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+  Attribution: This project includes or is inspired by the Ender 5 Plus Skirting and Lower Enclosure design by the original author CornBred89 on Printables.  
+  Non-commercial use only
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 Note: This project is non-commercial and all derivative works are shared under compatible open-source licenses where required.
