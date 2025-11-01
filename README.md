@@ -35,7 +35,7 @@ Add a cost-efficient Triple Z-mod
 This project uses or is inspired by the following works. Full attribution is provided below in compliance with their respective licenses.  
 
 - ZeroG – Ender 5 Plus Size - mercury_370_assembly.zip Files
-https://docs.zerog.one/manual/build/mercury_eva/printed_files
+https://docs.zerog.one/manual/build/mercury_eva/printed_files or on https://github.com/ZeroGDesign/MercuryOne/tree/MercuryOne.1/CAD
 Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
   Attribution: This work is based on the Mercury One Ender 5 Plus STEP File the STEP files can be found on their Website
