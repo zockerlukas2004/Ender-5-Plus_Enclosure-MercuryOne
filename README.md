@@ -8,7 +8,6 @@ I’m sharing my current progress on the Ender 5 Plus Enclosure Prototype + Merc
 
 
 **Goal**
-
 The focus is on preserving the majority of the original printer to keep costs and complexity as low as possible.
 Current Development Progress
 Included Files:
@@ -21,7 +20,6 @@ This version is a work in progress and intended only to show the current state o
 
 
 **Next Steps**
-
 Optimize non-finalized parts
 Add a detailed BOM and assembly documentation
 Provide individual STEP files for the Electric Bay, Mercury One, and Enclosure
