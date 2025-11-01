@@ -2,12 +2,12 @@
 Ender 5 Plus Enclosure Mod for Mercury One  Upgrad
 
 
-<u/>**Project Status**<u/>  
+<u>**Project Status**<u/>  
 This project is still under development.
 I’m sharing my current progress on the Ender 5 Plus Enclosure Prototype + Mercury One Inframe Mod + Electric Bay to provide an early look into the design process. At this stage, the repository only includes the STEP file of the base model, which serves as the foundation for all future improvements and refinements.
 
 
-<u/>**Goal**<u/>  
+<u>**Goal**<u/>  
 The focus is on preserving the majority of the original printer to keep costs and complexity as low as possible.
 Current Development Progress
 Included Files:
@@ -19,7 +19,7 @@ Note:
 This version is a work in progress and intended only to show the current state of development. Some parts may still be placeholders, incomplete, or not fully optimized. Feedback and suggestions are always welcome!
 
 
-<u/>**Next Steps**<u/>  
+<u>**Next Steps**<u/>  
 Optimize non-finalized parts
 Add a detailed BOM and assembly documentation
 Provide individual STEP files for the Electric Bay, Mercury One, and Enclosure
